@@ -66,11 +66,12 @@ section{
 .pho{
     float: left;
     width: 30%;
-    padding: 20px;   
+    
     border-radius: 4px;
     height: 80%;
     border-radius: 30px;
-  
+    padding-right: 20px;
+    padding-left: 20px;  
 
    
 }
